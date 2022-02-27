@@ -1,0 +1,48 @@
+h1{
+    margin-top:200px;
+    text-align: center;
+    font-size: 100px;
+}
+.btn-div{
+    margin-left: 430px;
+}
+
+.heart{
+    width: 80px;
+    height: 80px;
+}
+
+.couple{
+    width: 100%;
+}
+
+.bangla{
+    margin: 0 auto;
+    margin-left: 180px;
+}
+
+.kill{
+    width: 100%;
+}
+
+.btn11{
+    background-color: pink;
+    color: black;
+}
+
+.btn2{
+    background-color: blueviolet;
+    color: white;
+}
+
+@media (max-width:580px) {
+    .btn-div{
+        margin-left: 150px;
+    }
+    .bangla{
+        font-size: 30px;
+        font-weight: bold;
+        margin-left: opx;
+        margin-right: 100px;
+    }
+}
